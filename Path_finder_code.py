@@ -82,7 +82,12 @@ def affichage(Terrain):
 
 
 def main():
-    T = creer_terrain(10, 20)
+    print("Veuillez choisir la largeur et la longueur du terrain : \n")
+    print("Largeur : \n")
+    Largeur = input()
+    print("Longueur : \n")
+    Longueur = input()
+    T = creer_terrain(int(Largeur), int(Longueur))
     affichage(T)
 
 

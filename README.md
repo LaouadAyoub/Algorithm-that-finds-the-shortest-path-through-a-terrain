@@ -1,6 +1,7 @@
 # Path_finder
 
 It's an academic project realized during the 2nd year of my master, within the practical work of industrial applications to data science.
+
 this algorithm is programmed in python using the libraries : Matplotlib and Numpy 
 
 It looks for the shortest path crossing vertically terrain, the more the area is in red the more time is needed to cross it.

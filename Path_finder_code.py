@@ -82,7 +82,7 @@ def affichage(Terrain):
 
 
 def main():
-    print("Veuillez choisir les coordonnées du terrain : \n")
+    print("Veuillez choisir les coordonnées du terrain : \n\n\n")
     print("Largeur : \n")
     Largeur = input()
     print("Longueur : \n")

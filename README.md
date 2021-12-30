@@ -1,6 +1,6 @@
 # Path_finder
 
-This is an academic project tht i realized during the 2nd year of my master's degree, within the practical work of industrial applications to data science.
+This is an academic project that i realized during the 2nd year of my master's degree, within the practical work of industrial applications to data science.
 
 this algorithm is programmed in python using the libraries : Matplotlib and Numpy 
 
